@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "@helia/json": "^5.0.3",
+    "@helia/unixfs": "^6.0.3",
+    "crypto-js": "^4.2.0",
+    "ethers": "^6.15.0",
+    "helia": "^6.0.8",
+    "multiformats": "^13.4.1"
+  }
+}
